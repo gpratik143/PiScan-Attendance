@@ -1,6 +1,6 @@
 # Fingerprint Attendance System with Raspberry Pi 4 + R307
 
-This is a **GUI-based biometric attendance system** developed in Python for **Raspberry Pi 4** using the **R307 Fingerprint Sensor**. It allows user registration, real-time attendance logging (check-in/check-out), data filtering, and report generation (PDF/CSV). A clean Tkinter-based interface is provided for usability.
+This is a **GUI-based biometric attendance system** developed in Python for **Raspberry Pi 5** using the **R307 Fingerprint Sensor**. It allows user registration, real-time attendance logging (check-in/check-out), data filtering, and report generation (PDF/CSV). A clean Tkinter-based interface is provided for usability.
 
 ---
 
